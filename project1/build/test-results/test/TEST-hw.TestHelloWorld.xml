@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hw.TestHelloWorld" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-01-26T04:17:52" hostname="Linettes-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="getYear" classname="hw.TestHelloWorld" time="0.002"/>
+  <testcase name="getMessage2" classname="hw.TestHelloWorld" time="0.0"/>
+  <testcase name="getMessage" classname="hw.TestHelloWorld" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,3 @@
+src/test/java/hw/TestHelloWorld.java,1516939143000000000,806,FORMATTED
+src/main/java/hw/HelloWorld.java,1516384818000000000,150,FORMATTED
+src/main/java/hw/Main.java,1516384818000000000,352,FORMATTED
